@@ -28,13 +28,12 @@ O projeto segue a **Arquitetura Medallion**, com três camadas principais:
 ## 📂 Estrutura do Repositório
 
 Projeto-BikeStore---Arquitetura-Medallion/
-│
-├── 01.bronze/ # Dados brutos importados
-├── 02.silver/ # Dados validados e transformados
-├── 03.gold/ # Dados finais prontos para análise
-└── README.md # Este arquivo
 
-yaml
+-- 01.bronze/ # Dados brutos importados
+-- 02.silver/ # Dados validados e transformados
+-- 03.gold/ # Dados finais prontos para análise 
+-- README.md # Este arquivo
+
 Copiar código
 
 ---
