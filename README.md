@@ -82,3 +82,5 @@ Automatizar pipelines com Agendamentos/Jobs no Databricks.
 Rafael Bueno
 GitHub: https://github.com/Bueno-00
 Email: rafapbueno29@gmail.com
+![Projeto 01](https://github.com/user-attachments/assets/24bce61e-7607-401e-8f7f-7ca65ef95f80)
+
